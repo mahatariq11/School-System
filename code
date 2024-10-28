@@ -1,1 +1,22 @@
+def input_data():
+ sr=input("enter id no of student");
+ name=input("enter name of student");
+ gmail=input("enter gmail of student");
+ ph=input("enter phone number of student");
+ identity=input("enter  name of teacher");
+ cell=input("enter phone number of teacher");
+ sal=input("enter salary of teacher");
+ courses=input("enter courses he or she is teaching");
+ print(sr);
+ print(name);
+ print(gmail);
+ print(ph);
+ print(identity);
+ print(cell);
+ print(sal);
+ print(courses);
 
+input_data()
+
+
+    
